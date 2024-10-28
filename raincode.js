@@ -1,4 +1,4 @@
-const canvas = document.getElementById('matrixfaszom');
+const canvas = document.getElementById('cigany');
 const ctx = canvas.getContext('2d');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
