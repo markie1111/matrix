@@ -1,0 +1,21 @@
+:root {
+    --fasz: #000000;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    background-color: var(--fasz);
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
