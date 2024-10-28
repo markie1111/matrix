@@ -1,6 +1,6 @@
-# Matrix Digital Code Project 🌈
+# Matrix Digital Rain Code Project 🌈
 
-A small web-based matrix digital code project made by. cshmark
+A small web-based matrix digital rain project made by. cshmark
 
 ## Features
 
